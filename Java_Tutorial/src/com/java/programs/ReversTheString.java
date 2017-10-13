@@ -7,12 +7,14 @@ public class ReversTheString {
 		
 		int lenght=str.length()-1;
 						System.out.println("The lenght is: "+lenght);
+						char s;
 		while(lenght>=0)
 		{
 			//char c=str.charAt(lenght);
 			//System.out.print(c);
 			//====OR=====
-			System.out.print(str.charAt(lenght));
+			s=str.charAt(lenght);
+			System.out.print(s);
 			lenght=lenght-1;
 		}
 		
