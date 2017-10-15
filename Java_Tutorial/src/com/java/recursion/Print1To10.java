@@ -48,8 +48,8 @@ public class Print1To10 {
 		//swipe();
 		// printUsingCecursion(5);
 		// print(11);
-		// revers();
-		// reverstheString();
+		 revers();
+		 //reverstheString();
 	}
 
 	public static void revers() {
@@ -60,13 +60,13 @@ public class Print1To10 {
 	}
 
 	static void reverstheString() {
-		String name = "damhanawzir";
-		int size = name.length() - 1;
-		int i = 0;
-		while (size > i) {
-			char c = name.charAt(size);
+		String str="Hello";
+		char []charArray=str.toCharArray();
+		int charSize=charArray.length;
+		while(charSize>0) {
+			char c=charArray[charSize];
 			System.out.print(c);
-			size = size - 1;
+			charSize--;
 		}
 	}
 
