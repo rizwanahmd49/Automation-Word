@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27660" started-at="2017-10-17T10:52:30Z" finished-at="2017-10-17T10:52:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27660" started-at="2017-10-17T10:52:30Z" finished-at="2017-10-17T10:52:57Z">
+      <class name="autocomplete.google.homepage.TC_002VerifyAutoSearch">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:autocomplete.google.homepage.TC_002VerifyAutoSearch@6767c1fc]" name="setUP" is-config="true" duration-ms="19458" started-at="2017-10-17T16:22:30Z" finished-at="2017-10-17T16:22:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="searchForSelenium()[pri:0, instance:autocomplete.google.homepage.TC_002VerifyAutoSearch@6767c1fc]" name="searchForSelenium" duration-ms="5208" started-at="2017-10-17T16:22:49Z" finished-at="2017-10-17T16:22:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForSelenium -->
+        <test-method status="PASS" signature="EndTest()[pri:0, instance:autocomplete.google.homepage.TC_002VerifyAutoSearch@6767c1fc]" name="EndTest" is-config="true" duration-ms="2918" started-at="2017-10-17T16:22:54Z" finished-at="2017-10-17T16:22:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndTest -->
+      </class> <!-- autocomplete.google.homepage.TC_002VerifyAutoSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
