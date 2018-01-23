@@ -5,6 +5,7 @@
     <classes>
       <class name="autocomplete.google.homepage.TC_002VerifyAutoSearch">
         <methods>
+          <include name="EndTest"/>
           <include name="searchForSelenium"/>
           <include name="setUP"/>
         </methods>

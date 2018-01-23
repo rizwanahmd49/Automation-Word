@@ -13,7 +13,7 @@ public class Base {
 
 	public void init() {
 		InvokeBrowser();
-		setUrl(urlNukri);
+		setUrl(url);
 	}
 
 	public void InvokeBrowser() {
