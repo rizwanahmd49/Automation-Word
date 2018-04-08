@@ -1,8 +1,10 @@
 package com.java.inheritance;
 
 public interface face {
+	int i=10;
 	public class InheriClass {
 
+		
 		public InheriClass(String str) {
 			System.out.println("Parameterized Constructor");
 			char[] ch = str.toCharArray();

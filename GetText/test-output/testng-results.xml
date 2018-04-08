@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="173" started-at="2017-11-14T05:02:46Z" finished-at="2017-11-14T05:02:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="173" started-at="2017-11-14T05:02:46Z" finished-at="2017-11-14T05:02:46Z">
+      <class name="com.google.gettext.ClickUsingActions">
+        <test-method status="PASS" signature="Print()[pri:0, instance:com.google.gettext.ClickUsingActions@57baeedf]" name="Print" duration-ms="54" started-at="2017-11-14T10:32:46Z" finished-at="2017-11-14T10:32:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Print -->
+      </class> <!-- com.google.gettext.ClickUsingActions -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [SmokeSuite]]">
+  <test name="SmokeTest(failed)(failed)">
+    <classes>
+      <class name="automation.practice.TC_004_GoogleLoginVerify">
+        <methods>
+          <include name="GoogleVerify"/>
+        </methods>
+      </class> <!-- automation.practice.TC_004_GoogleLoginVerify -->
+    </classes>
+  </test> <!-- SmokeTest(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [SmokeSuite]] -->

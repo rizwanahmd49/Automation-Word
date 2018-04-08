@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Failed suite [SmokeSuite]" duration-ms="95" started-at="2018-02-11T10:19:20Z" finished-at="2018-02-11T10:19:20Z">
+    <groups>
+    </groups>
+    <test name="SmokeTest(failed)" duration-ms="95" started-at="2018-02-11T10:19:20Z" finished-at="2018-02-11T10:19:20Z">
+      <class name="automation.practice.TC_004_GoogleLoginVerify">
+        <test-method status="PASS" signature="GoogleVerify()[pri:0, instance:automation.practice.TC_004_GoogleLoginVerify@3abfe836]" name="GoogleVerify" duration-ms="21" started-at="2018-02-11T15:49:20Z" finished-at="2018-02-11T15:49:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleVerify -->
+      </class> <!-- automation.practice.TC_004_GoogleLoginVerify -->
+    </test> <!-- SmokeTest(failed) -->
+  </suite> <!-- Failed suite [SmokeSuite] -->
+</testng-results>

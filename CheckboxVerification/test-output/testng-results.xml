@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63079" started-at="2018-01-14T07:17:57Z" finished-at="2018-01-14T07:19:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63079" started-at="2018-01-14T07:17:57Z" finished-at="2018-01-14T07:19:00Z">
+      <class name="homepage.TC_001VerifyRedioBtn">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:homepage.TC_001VerifyRedioBtn@cc285f4]" name="beforeTest" is-config="true" duration-ms="51444" started-at="2018-01-14T12:47:57Z" finished-at="2018-01-14T12:48:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verifyRedioButton()[pri:0, instance:homepage.TC_001VerifyRedioBtn@cc285f4]" name="verifyRedioButton" duration-ms="545" started-at="2018-01-14T12:48:49Z" finished-at="2018-01-14T12:48:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRedioButton -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:homepage.TC_001VerifyRedioBtn@cc285f4]" name="afterTest" is-config="true" duration-ms="11005" started-at="2018-01-14T12:48:49Z" finished-at="2018-01-14T12:49:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- homepage.TC_001VerifyRedioBtn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

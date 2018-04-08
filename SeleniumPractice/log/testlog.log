@@ -1,0 +1,43 @@
+2018-01-23 10:07:53,482 - Practice -INFO - Firefox Invoked
+2018-01-23 10:08:09,697 - Practice -INFO - Application launched and URL is: http://www.naukri.com/
+2018-01-23 10:08:10,102 - Practice -INFO - 2147483651
+2018-01-23 10:08:10,103 - Practice -INFO - 2147483659
+2018-01-23 10:08:10,103 - Practice -INFO - 2147483662
+2018-01-23 10:17:54,448 - Practice -INFO - Firefox Invoked
+2018-01-23 10:18:07,139 - Practice -INFO - Application launched and URL is: http://www.naukri.com/
+2018-01-23 10:18:07,335 - Practice -INFO - The parent window session ID is: 4294967297
+2018-01-23 10:18:07,472 - Practice -INFO - 2 child window session ID is : 4294967304
+2018-01-23 10:18:07,475 - Practice -INFO - 3 child window session ID is : 4294967307
+2018-01-23 10:19:06,186 - Practice -INFO - Firefox Invoked
+2018-01-23 10:19:18,908 - Practice -INFO - Application launched and URL is: http://www.naukri.com/
+2018-01-23 10:19:19,269 - Practice -INFO - The parent window session ID is: 2147483651
+2018-01-23 10:19:19,312 - Practice -INFO - 0 child window session ID is : 2147483651
+2018-01-23 10:19:19,313 - Practice -INFO - 1 child window session ID is : 2147483659
+2018-01-23 10:19:19,315 - Practice -INFO - 2 child window session ID is : 2147483662
+2018-01-23 10:20:32,229 - Practice -INFO - Firefox Invoked
+2018-01-23 10:20:48,901 - Practice -INFO - Application launched and URL is: http://www.naukri.com/
+2018-01-23 10:20:49,355 - Practice -INFO - The parent window session ID is: 2147483651
+2018-01-23 10:20:49,398 - Practice -INFO - 1 child window session ID is : 2147483659
+2018-01-23 10:20:49,404 - Practice -INFO - 2 child window session ID is : 2147483662
+2018-01-23 11:00:07,697 - Practice -INFO - Firefox Invoked
+2018-01-23 11:00:25,090 - Practice -INFO - Application launched and URL is: http://www.naukri.com/
+2018-01-23 11:00:25,232 - Practice -INFO - The parent window session ID is: 4294967297
+2018-01-23 11:00:25,474 - Practice -INFO - 1 child window session ID is : 4294967304
+2018-01-23 11:00:25,479 - Practice -INFO - 2 child window session ID is : 4294967307
+2018-01-23 11:05:09,812 - Practice -INFO - Firefox Invoked
+2018-01-23 11:05:25,563 - Practice -INFO - Application launched and URL is: http://www.naukri.com/
+2018-01-23 11:05:25,806 - Practice -INFO - The parent window session ID is: 4294967297
+2018-01-23 11:05:25,890 - Practice -INFO - 1 child window session ID is : 4294967304
+2018-01-23 11:05:25,891 - Practice -INFO - 2 child window session ID is : 4294967307
+2018-01-23 11:15:20,021 - Practice -INFO - Firefox Invoked
+2018-01-23 11:15:39,314 - Practice -INFO - Application launched and URL is: http://www.naukri.com/
+2018-01-23 11:15:39,633 - Practice -INFO - The parent window session ID is: 2147483651
+2018-01-23 11:15:39,670 - Practice -INFO - 1 child window session ID is : 2147483659
+2018-01-23 11:15:39,673 - Practice -INFO - 2 child window session ID is : 2147483662
+2018-01-23 11:15:39,782 - Practice -INFO -  Focuse set to parent window: 2147483651
+2018-01-23 11:15:39,783 - Practice -INFO - closing pop-up window : 2147483659
+2018-01-23 11:15:40,078 - Practice -INFO - Pop-up window closed
+2018-01-23 11:15:40,101 - Practice -INFO -  Focuse set to parent window: 2147483651
+2018-01-23 11:15:40,102 - Practice -INFO - closing pop-up window : 2147483662
+2018-01-23 11:15:40,484 - Practice -INFO - Pop-up window closed
+2018-01-23 11:15:40,629 - Practice -INFO -  Focuse set to parent window: 2147483651

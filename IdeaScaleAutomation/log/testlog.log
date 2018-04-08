@@ -1,0 +1,35 @@
+2017-11-20 00:36:44,778 - com.ideascale.IdeaHome -INFO - Trying to Verify all element on login page
+URL: https://ideascale.com/a/login
+Page Title: Login | IdeaScale
+2017-11-20 00:36:44,939 - com.ideascale.IdeaHome -INFO - Page name is: Log in using your IdeaScale account:
+2017-11-20 00:37:13,925 - com.ideascale.IdeaHome -INFO - Clicked on IdeaScale logo and object is: Proxy element for: DefaultElementLocator 'By.id: utb-logo'
+2017-11-20 00:37:15,887 - com.ideascale.IdeaHome -INFO - Navigated back to :Login | IdeaScale
+2017-11-20 00:37:22,813 - com.ideascale.IdeaHome -INFO - Clicket on register button on TOP and object is: [[ChromeDriver: chrome on XP (022d855e9a73f6e14bf53779e518171b)] -> xpath: //a[contains(@href,'signup')][1]]
+2017-11-20 00:37:22,835 - com.ideascale.IdeaHome -INFO - Navigated to URL: https://ideascale.com/a/signupTitle: Create Your Account | IdeaScale
+2017-11-20 00:37:24,031 - com.ideascale.IdeaHome -INFO - Navigated back to :Login | IdeaScale
+2017-11-20 00:37:24,109 - com.ideascale.IdeaHome -INFO - Clicket on 'Log in' button on TOP and object is :[[ChromeDriver: chrome on XP (022d855e9a73f6e14bf53779e518171b)] -> xpath: //a[contains(@href,'/a/login')]]
+2017-11-20 00:37:24,127 - com.ideascale.IdeaHome -INFO - Navigated to URL: https://ideascale.com/a/loginTitle: Login | IdeaScale
+2017-11-20 00:41:24,386 - com.ideascale.IdeaHome -INFO - Trying to Verify all element on login page
+URL: https://ideascale.com/a/login
+Page Title: Login | IdeaScale
+2017-11-20 00:41:24,526 - com.ideascale.IdeaHome -INFO - Page name is: Log in using your IdeaScale account:
+2017-11-20 00:41:53,536 - com.ideascale.IdeaHome -INFO - Clicked on IdeaScale logo and object is: Proxy element for: DefaultElementLocator 'By.id: utb-logo'
+2017-11-20 00:41:55,091 - com.ideascale.IdeaHome -INFO - Navigated back to :Login | IdeaScale
+2017-11-20 00:42:02,008 - com.ideascale.IdeaHome -INFO - Clicket on register button on TOP and object is: [[ChromeDriver: chrome on XP (f39d78be775e010094650e976caa28e3)] -> xpath: //a[contains(@href,'signup')][1]]
+2017-11-20 00:42:02,049 - com.ideascale.IdeaHome -INFO - Navigated to URL: https://ideascale.com/a/signupTitle: Create Your Account | IdeaScale
+2017-11-20 00:42:03,087 - com.ideascale.IdeaHome -INFO - Navigated back to :Login | IdeaScale
+2017-11-20 00:42:03,143 - com.ideascale.IdeaHome -INFO - Clicket on 'Log in' button on TOP and object is :[[ChromeDriver: chrome on XP (f39d78be775e010094650e976caa28e3)] -> xpath: //a[contains(@href,'/a/login')]]
+2017-11-20 00:42:03,174 - com.ideascale.IdeaHome -INFO - Navigated to URL: https://ideascale.com/a/loginTitle: Login | IdeaScale
+2017-11-20 00:42:03,308 - com.ideascale.IdeaHome -INFO - Login page Lable text is: Log in using your IdeaScale account: and object is :[[ChromeDriver: chrome on XP (f39d78be775e010094650e976caa28e3)] -> xpath: //*[@class='col-md-6']/h2]
+2017-11-20 08:36:17,991 - com.ideascale.IdeaHome -INFO - Trying to Verify all element on login page
+URL: https://ideascale.com/a/login
+Page Title: Login | IdeaScale
+2017-11-20 08:36:18,128 - com.ideascale.IdeaHome -INFO - Page name is: Log in using your IdeaScale account:
+2017-11-20 08:36:44,610 - com.ideascale.IdeaHome -INFO - Clicked on IdeaScale logo and object is: Proxy element for: DefaultElementLocator 'By.id: utb-logo'
+2017-11-20 08:36:46,306 - com.ideascale.IdeaHome -INFO - Navigated back to :Login | IdeaScale
+2017-11-20 08:36:53,140 - com.ideascale.IdeaHome -INFO - Clicket on register button on TOP and object is: [[ChromeDriver: chrome on XP (5fda8ac2b6a233eede88d0432503031f)] -> xpath: //a[contains(@href,'signup')][1]]
+2017-11-20 08:36:53,166 - com.ideascale.IdeaHome -INFO - Navigated to URL: https://ideascale.com/a/signupTitle: Create Your Account | IdeaScale
+2017-11-20 08:36:54,239 - com.ideascale.IdeaHome -INFO - Navigated back to :Login | IdeaScale
+2017-11-20 08:36:54,281 - com.ideascale.IdeaHome -INFO - Clicket on 'Log in' button on TOP and object is :[[ChromeDriver: chrome on XP (5fda8ac2b6a233eede88d0432503031f)] -> xpath: //a[contains(@href,'/a/login')]]
+2017-11-20 08:36:54,313 - com.ideascale.IdeaHome -INFO - Navigated to URL: https://ideascale.com/a/loginTitle: Login | IdeaScale
+2017-11-20 08:36:54,452 - com.ideascale.IdeaHome -INFO - Login page Lable text is: Log in using your IdeaScale account: and object is :[[ChromeDriver: chrome on XP (5fda8ac2b6a233eede88d0432503031f)] -> xpath: //*[@class='col-md-6']/h2]

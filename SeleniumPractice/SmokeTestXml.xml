@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmokeSuite">
+  <test name="SmokeTest">
+    <classes>
+      <class name="automation.practice.TC_004_GoogleLoginVerify"/>
+      <class name="automation.practice.TC_003_LinkedInVerify"/>
+      <class name="automation.practice.TC_001_FacebookLoginVerify"/>
+      <class name="automation.practice.TC_002_TwitterLoginVerify"/>
+    </classes>
+  </test> <!-- SmokeTest -->
+</suite> <!-- SmokeSuite -->
